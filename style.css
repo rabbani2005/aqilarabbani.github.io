@@ -1,0 +1,13 @@
+.navbar-brand {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: italic;
+}
+
+.jumbotron {
+  padding: 7rem 1rem;
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
